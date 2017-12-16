@@ -1,6 +1,6 @@
 # Voice Over IP – Protokoły SIP, RTP, SDP – Programowanie
 
-YouTube - https://www.youtube.com/watch?v=swA4LNIT_hU
+YouTube - https://www.youtube.com/watch?v=6EWoNN1ALEk
 
 [![Voice Over IP – Protokoły SIP, RTP, SDP – Programowanie](http://img.youtube.com/vi/6EWoNN1ALEk/0.jpg)](https://www.youtube.com/watch?v=6EWoNN1ALEk)
 
